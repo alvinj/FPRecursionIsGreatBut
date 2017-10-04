@@ -140,5 +140,11 @@ a.reduceLeft(add)
         result3
     }
 
+---
+
+Alvin Alexander    
+http://alvinalexander.com
+
+
 
 
